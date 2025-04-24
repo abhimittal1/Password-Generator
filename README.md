@@ -4,9 +4,8 @@ A responsive and interactive random password generator built using **HTML**, **C
 
 ## 📸 Preview
 
-  <img src="./assets/SS1.png" alt="Password Generator Demo" width="400">
-  <img src="./assets/SS2.png" alt="Password Generator Demo" width="400">
-
+![Password Generator Screenshot](./assets/SS1.png)
+![Password Generator Screenshot](./assets/SS2.png)
 
 ---
 
