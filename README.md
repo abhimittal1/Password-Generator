@@ -2,8 +2,12 @@
 
 A responsive and interactive random password generator built using **HTML**, **CSS**, and **JavaScript**. It allows users to generate secure passwords with customizable options including length, uppercase/lowercase letters, numbers, and symbols.
 
-![Password Generator Screenshot](./assets/SS1.png)
-![Password Generator Screenshot](./assets/SS2.png)
+## 📸 Preview
+
+<p align="center">
+  <img src="./assets/SS1.png" alt="Password Generator Demo" width="400">
+  <img src="./assets/SS2.png" alt="Password Generator Demo" width="400">
+</p>
 
 ---
 
@@ -29,11 +33,9 @@ A responsive and interactive random password generator built using **HTML**, **C
 
 ---
 
-## 📸 Preview
 
-<p align="center">
-  <img src="./assets/demo.gif" alt="Password Generator Demo" width="400">
-</p>
+
+
 
 ---
 
